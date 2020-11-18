@@ -1,5 +1,6 @@
 # ruby_template
-Basic MadLib Program in Ruby
+Basic MadLib Program in Ruby with RSpec testing.
+
 The [animal] jumped over the [planetary body]
 Should ask for a animal
 Should ask for a planetary body
