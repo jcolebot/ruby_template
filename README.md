@@ -1,5 +1,5 @@
 # ruby_template
-Basic MadLib Program in Ruby with RSpec testing.
+A MadLib Program in Ruby with RSpec testing. Designed to easily take template and replace any words enclosed in brackets.
 
 The [animal] jumped over the [planetary body]
 Should ask for a animal
